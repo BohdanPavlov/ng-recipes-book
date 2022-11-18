@@ -1,6 +1,7 @@
 {
   "name": "ng-udemy-course",
   "version": "0.0.0",
+  "homepage": "https://bohdanpavlov.github.io/ng-recipes-book/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
